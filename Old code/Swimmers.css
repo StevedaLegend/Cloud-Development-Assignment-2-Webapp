@@ -1,0 +1,25 @@
+body {
+    background-image: url('Swimming.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#swimmers {
+    font-size: 20px; 
+    padding: 10px; 
+    width: 200px; 
+}
+
+div {
+    text-align: Top;
+}
+
+i {
+    font-size: 50px;
+    color: whitesmoke;
+}
